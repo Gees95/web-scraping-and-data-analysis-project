@@ -1,6 +1,6 @@
 # web-scraping-and-data-analysis-project
 
-# Mars Data Exploration Project Summary
+**Mars Data Exploration Project Summary**
 
 **Project Overview**
 
